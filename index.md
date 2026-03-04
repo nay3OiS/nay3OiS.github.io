@@ -1,6 +1,6 @@
 ---
-layout:default
-title:My Personal Page
+layout: default
+title: My Personal Page
 ---
 ## Welcome 
 
