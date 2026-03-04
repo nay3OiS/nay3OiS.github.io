@@ -1,5 +1,7 @@
+---
 layout:default
 title:My Personal Page
+---
 ## Welcome 
 
 My name is Guo Siyan. 
